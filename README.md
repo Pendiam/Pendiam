@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=plastic&color=white&logo=PostgreSQL) 
 
 ![Docker](https://img.shields.io/badge/-Docker-333333?logoColor=violet?style=plastic&color=white&logo=Docker) 
+
+
+
+![](https://komarev.com/ghpvc/?username=Pendiam)

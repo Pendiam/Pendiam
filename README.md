@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 [![Pendiam](https://img.shields.io/github/followers/Pendiam?label=follow&style=social)](https://github.com/Pendiam)
 
-![PYTHON3](https://img.shields.io/badge/-PYTHON3-333333?style=flat&logo=PYTHON3)
-![JAVA](https://img.shields.io/badge/-JAVA-333333?style=flat&logo=JAVA)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) 
+![React](https://img.shields.io/badge/-React-333333?style=plastic&color=white&logo=React)
+![Sass](https://img.shields.io/badge/-Sass-333333?style=plastic&color=white&logo=Sass)
+![Django](https://img.shields.io/badge/-Django-333333?style=plastic?logoColor=violet&color=white&logo=Django)
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=plastic&color=white&logo=PostgreSQL) 
+
+![Docker](https://img.shields.io/badge/-Docker-333333?logoColor=violet?style=plastic&color=white&logo=Docker) 

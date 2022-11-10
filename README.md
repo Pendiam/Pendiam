@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Pendiam](https://img.shields.io/github/followers/Pendiam?label=follow&style=social)](https://github.com/Pendiam)
+
+![PYTHON3](https://img.shields.io/badge/-PYTHON3-333333?style=flat&logo=PYTHON3)
+![JAVA](https://img.shields.io/badge/-JAVA-333333?style=flat&logo=JAVA)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) 
